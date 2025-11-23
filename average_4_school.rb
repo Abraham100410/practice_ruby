@@ -32,4 +32,3 @@ if option == 1
         puts "your final grade in #{subject1} is #{totalgrade1}"
     end
 end
-loop
